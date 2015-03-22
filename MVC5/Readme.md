@@ -1,9 +1,9 @@
-# Simple.Date Asp.Net Identity Provider MVC 5 Standard sample
+# Simple.Date Asp.Net Identity Provider MVC 5 sample
 
-This is the equivalent of the basic MVC5 solution that is created from the File -> New Project dialog
-in Visual Studio.
+This is similar to the standard MVC solution that is created via File -> New Project -> Web -> MVC
 
-The only difference is that instead of using EF for database access it uses Simple.Data
+There are two differences, the first is using Simple.Data instead of EF the second is that it uses
+Roles in the solution to secure an Admin area
 
 ## Source
 If you clone this repo you will need to create the database yourself by running the IdentityDb.sql file
@@ -13,9 +13,9 @@ If you don't have automatic package restore active then you will need to ensure 
 projects Nuget packages to ensure all the necessary dependencies are installed.
 
 ## Nuget
-The easiest way to get this sample is to create an empty Web Project then install the Nuget pkg with the following command:
+The easiest way to get this sample is to create an empty Web Project and then install the following Nuget pkg:
 
-Install-Package Simple.Data.AspNet.Identity.MVC5.Standard.Sample
+Install-Package Simple.Data.AspNet.Identity.MVC5.Sample
 
 Doing this will create the database for you as well as installing all the necessary dependencies
 

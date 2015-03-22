@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Simple.Data.AspNet.Identity.MVC5.Standard.Sample</id>
+    <id>Simple.Data.AspNet.Identity.MVC5.Sample</id>
     <version>1.0.0</version>
-    <title>Simple.Data ASP.NET Identity MVC5 Standard Sample</title>
+    <title>Simple.Data ASP.NET Identity MVC5 Sample</title>
     <authors>Nathan Gloyn</authors>
     <owners>Nathan Gloyn</owners>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
-	<projectUrl>https://github.com/NathanGloyn/Simple.Data.AspNet.Identity.Sample</projectUrl>	
+	<projectUrl>https://github.com/NathanGloyn/Simple.Data.AspNet.Identity.Sample</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Simple.Data version of standard Asp.Net MVC 5 sample</description>
+    <description>Sample MVC5 application using Asp.Identity with Simple.Data</description>
     <releaseNotes>Initial Version.</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>simple.data aspnet Identity Membership Sample</tags>
