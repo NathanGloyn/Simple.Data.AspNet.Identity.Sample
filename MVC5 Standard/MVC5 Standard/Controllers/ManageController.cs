@@ -6,7 +6,6 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using MVC5_Standard.Models;
-using WebApplication1;
 
 namespace MVC5_Standard.Controllers
 {

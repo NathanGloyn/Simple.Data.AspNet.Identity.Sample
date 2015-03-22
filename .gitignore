@@ -34,5 +34,6 @@ packages/
 *.nupkg
 */Build/Nuget/content
 */Build/Nuget/[Pp]ackage
+!*/Build/Nuget/content/*.xdt
 *.mdf
 *.ldf

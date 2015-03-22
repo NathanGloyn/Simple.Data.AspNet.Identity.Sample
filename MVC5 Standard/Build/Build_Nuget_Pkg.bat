@@ -22,4 +22,6 @@ Copy "..\MVC5 Standard\Views\Home\*.*" Nuget\content\Views\Home\*.*
 Copy "..\MVC5 Standard\Views\Manage\*.*" Nuget\content\Views\Manage\*.*
 Copy "..\MVC5 Standard\Views\Shared\*.*" Nuget\content\Views\Shared\*.*
 
+Copy Nuget\*.xdt Nuget\content\*.xdt
+
 nuget pack  Nuget\Simple.Data.AspNet.Identity.MVC5.Standard.Sample.nuspec -OutputDirectory Nuget\Package

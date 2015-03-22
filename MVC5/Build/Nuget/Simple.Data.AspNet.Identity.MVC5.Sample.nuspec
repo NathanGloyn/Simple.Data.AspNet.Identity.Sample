@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Simple.Data.AspNet.Identity.MVC5.Sample</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Simple.Data ASP.NET Identity MVC5 Sample</title>
     <authors>Nathan Gloyn</authors>
     <owners>Nathan Gloyn</owners>
@@ -10,7 +10,7 @@
 	<projectUrl>https://github.com/NathanGloyn/Simple.Data.AspNet.Identity.Sample</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Sample MVC5 application using Asp.Identity with Simple.Data</description>
-    <releaseNotes>Initial Version.</releaseNotes>
+    <releaseNotes>Added missing xdt files</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>simple.data aspnet Identity Membership Sample</tags>
     <dependencies>
