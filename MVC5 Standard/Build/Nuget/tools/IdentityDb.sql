@@ -1,4 +1,4 @@
-﻿USE $(DBName)
+USE $(DBName)
 GO
 
 CREATE TABLE [dbo].[AspNetRoles](
