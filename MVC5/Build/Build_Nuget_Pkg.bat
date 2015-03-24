@@ -16,11 +16,11 @@ mkdir Nuget\content\Views\Manage
 mkdir Nuget\content\Views\Shared
 
 :: Copy files 
-Copy "..\MVC5 Standard\Startup.cs" Nuget\content\Startup.cs.pp
-Copy "..\MVC5 Standard\Global.asax" Nuget\content\Global.asax.pp
-Copy "..\MVC5 Standard\Global.asax.cs" Nuget\content\Global.asax.cs.pp
-Copy "..\MVC5 Standard\favicon.ico" Nuget\content\favicon.ico
-Copy "..\MVC5 Standard\App_Start\*.*" Nuget\content\App_Start\*.*.pp
+Copy "..\MVC5\Startup.cs" Nuget\content\Startup.cs.pp
+Copy "..\MVC5\Global.asax" Nuget\content\Global.asax.pp
+Copy "..\MVC5\Global.asax.cs" Nuget\content\Global.asax.cs.pp
+Copy "..\MVC5\favicon.ico" Nuget\content\favicon.ico
+Copy "..\MVC5\App_Start\*.*" Nuget\content\App_Start\*.*.pp
 Copy "..\MVC5\Content\Site.css" Nuget\content\Content\Site.css
 Copy "..\MVC5\Controllers\*.*" Nuget\content\Controllers\*.*.pp
 Copy "..\MVC5\Models\*.*" Nuget\content\Models\*.*.pp

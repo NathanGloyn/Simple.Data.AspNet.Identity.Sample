@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Simple.Data.AspNet.Identity.MVC5.Sample</id>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <title>Simple.Data ASP.NET Identity MVC5 Sample</title>
     <authors>Nathan Gloyn</authors>
     <owners>Nathan Gloyn</owners>
