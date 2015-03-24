@@ -1,0 +1,10 @@
+﻿To be able to run this from code you will need to create the database yourself using the IdentityDb.sql which
+you can find along side the sln file.
+
+The script will not only create the db but will populate it with 2 users, one an admin the other a standard user.
+
+The user details are:
+
+Name				Password
+admin@test.com		Testing1?
+bob@test.com		Testing1?

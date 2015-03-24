@@ -17,7 +17,12 @@ The easiest way to get this sample is to create an empty Web Project and then in
 
 Install-Package Simple.Data.AspNet.Identity.MVC5.Sample
 
-Doing this will create the database for you as well as installing all the necessary dependencies
+Doing this will create the database as well as installing all the necessary dependencies
+
+The database comes pre-populated with 2 user - an admin and a user:
+
+ * Admin user - login as admin@test.com with password Testing1?
+ * User - login as bob@test.com with password Testing1?
 
 ###Licence
 This software is licensed under the MIT license which basically means you can do what you want
