@@ -20,7 +20,7 @@
 
 <div class="editor-label">
     @Html.LabelFor(model => model.SelectedRole)
-</div>"Id","Name"
+</div>
 <div class="editor-field">
     @Html.DropDownListFor(model => model.SelectedRole, new SelectList(ViewBag.AvailableRoles, Model.SelectedRole),"Select")
     @Html.ValidationMessageFor(model => model.Role)

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using Simple.Data.AspNet.Identity;
 
 namespace MVC5.Models {
@@ -9,6 +10,8 @@ namespace MVC5.Models {
         public bool Confirmed { get; set; }
         public bool Locked { get; set; }
         public IdentityRole Role { get; set; }
+
+        [DisplayName("Role")]
         public string SelectedRole { get; set; }
 
         public UserViewModel() {
